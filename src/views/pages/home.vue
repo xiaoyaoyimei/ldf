@@ -1,0 +1,69 @@
+<template>
+	<div class="zgf-wrapper">
+		<div  class="zgf">
+		<h1>之子于归，宜其室家</h1>
+		<h5>桃之夭夭，灼灼其华</h5>
+		<img src="../../../static/img/j.jpg">
+		</div>
+		<div class="content">
+			<p>我们装修的不仅仅是房子，而是你的家。细节彰显专业
+		</br></br>禄东丰</p>
+		<div class="wenan">
+			<p>我们深深的知道</p>
+
+<p>颜值是当今最重要的东西</p>
+
+<p>无论你是欧式、现代、美式、新中式等</p>
+
+<p>都有一款最适合的在等你</p>
+			<img src="../../../static/img/j4.jpg"><img src="../../../static/img/j5.jpg"></div>
+			</div>
+		</div>
+</template>
+
+<script>
+</script>
+
+<style scoped="scoped">
+	.zgf-wrapper{
+		background: #f0efee;
+	}
+	.zgf{
+		background: #fff;
+		    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+	}
+	.zgf img{
+		display: block;
+	}
+	.content{
+		padding-left:100px;
+		padding-right:100px;
+	}
+	.content> p{
+		margin-top:60px;
+		margin-bottom:60px;
+		padding:40px;
+		line-height: 40px;
+		border:1px solid #eee;
+		background: #fff;
+		font-size: 20px;
+	}
+		.wenan{
+			overflow: hidden;
+		}
+	.wenan p{
+		text-align: left;
+	}
+	.wenan img{
+		float: left;
+		margin-top:50px;
+		display: inline-block;
+		width: 45%;
+		margin-right: 40px;
+		margin-bottom:50px;
+	}
+</style>

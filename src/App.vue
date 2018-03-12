@@ -18,4 +18,14 @@ export default {
   text-align: center;
   color: #2c3e50;
 }
+ul,li{
+	list-style: none;
+}
+#app h1{
+	padding-top: 2rem;
+	padding-bottom:2rem;
+}
+.fl{
+	float: left;
+}
 </style>
