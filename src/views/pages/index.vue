@@ -63,7 +63,7 @@ animation:a1 2s;
 -o-animation:a1 2s; /* Opera */
 position: absolute;
 top:100px;
-left:45%;
+right:0%;
 z-index: 1;
 animation-fill-mode:forwards;
 }
@@ -77,6 +77,7 @@ animation-fill-mode:forwards;
      }
      100%{
         	opacity:1;
+        	right:20%;
         }
     
 }
@@ -92,7 +93,7 @@ animation:a2 2.5s;
 -o-animation:a2 2.5s; /* Opera */
 position: absolute;
 top:200px;
-left:45%;
+right:0%;
 z-index: 1;
 animation-fill-mode:forwards;
 }
@@ -106,6 +107,7 @@ animation-fill-mode:forwards;
      }
      100%{
         	opacity:1;
+        	right:20%;
         }
     
 }
