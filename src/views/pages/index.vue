@@ -116,6 +116,6 @@ animation-fill-mode:forwards;
 			height: 100%;
 			position: relative;
 			width:100%;
-			background: url(../../../static/img/2.jpg) center center no-repeat;
+			background: url(../../static/img/2.jpg) center center no-repeat;
 	}
 </style>

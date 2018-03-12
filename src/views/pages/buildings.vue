@@ -3,7 +3,7 @@
 		<div  class="zgf">
 		<h1>玩，我有我态度</h1>
 		<h5>我们不是随意的</h5>
-		<img src="../../../static/img/b.jpg">
+		<img src="../../static/img/b.jpg">
 		</div>
 		<div class="content">
 			<p>我们装修的不仅仅是玩的景点，而是你的口牌。细节彰显专业
@@ -15,7 +15,7 @@
 
 <p>不信，你看，这就是我们为之自豪的手艺</p>
 
-			<img src="../../../static/img/b1.jpg"></div>
+			<img src="../../static/img/b1.jpg"></div>
 			</div>
 		</div>
 </template>

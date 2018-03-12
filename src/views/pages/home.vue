@@ -3,7 +3,7 @@
 		<div  class="zgf">
 		<h1>之子于归，宜其室家</h1>
 		<h5>桃之夭夭，灼灼其华</h5>
-		<img src="../../../static/img/j.jpg">
+		<img src="../../static/img/j.jpg">
 		</div>
 		<div class="content">
 			<p>我们装修的不仅仅是房子，而是你的家。细节彰显专业
@@ -16,7 +16,7 @@
 <p>无论你是欧式、现代、美式、新中式等</p>
 
 <p>都有一款最适合的在等你</p>
-			<img src="../../../static/img/j4.jpg"><img src="../../../static/img/j5.jpg"></div>
+			<img src="../../static/img/j4.jpg"><img src="../../static/img/j5.jpg"></div>
 			</div>
 		</div>
 </template>

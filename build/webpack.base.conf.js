@@ -67,11 +67,7 @@ module.exports = {
         options: {
           limit: 10000,
           name: utils.assetsPath('media/[name].[hash:7].[ext]')
-        },
-		        {
-		    test: require.resolve('jquery'),
-		    loader: 'expose?jQuery!expose?$'
-		 }
+        }
       },
       {
         test: /\.(woff2?|eot|ttf|otf)(\?.*)?$/,
