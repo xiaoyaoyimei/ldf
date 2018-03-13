@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<h1>联系我们</h1>
-	    <div class="bg"><div class="c"><img src="../../static/img/c.jpg">
+	    <div class="bg"><div class="c"><img src="../../assets/image/c.jpg">
 			<div class="fl">
 				<h4>我们欢迎客户提出疑问、获得解答，并分享对禄东丰的热情。</h4>
 				<h5>联系方式</h5>

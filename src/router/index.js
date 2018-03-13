@@ -1,7 +1,6 @@
 let routes =  [
         {
 			path: '/',
-			name:'首页',
 			 redirect: '/index',
 		    iconCls: 'el-icon-location',//图标样式class\n
 			component: resolve => require(['@/container/Full.vue'], resolve),
